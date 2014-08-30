@@ -1,0 +1,56 @@
+Partlist exported from /home/rebecatourinho at 27/06/14 09:47
+
+Part  Value               Device               Package         Description                                                     MF    MPN         OC_FARNELL OC_NEWARK
+BEAD                      R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+BEAD1                     R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+C1    100n                C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C2    100n                C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C3    100n                C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C4    100n                C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C5    100n                C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C6    100n                C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C7    10u                 CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C8    33p                 C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C9    33p                 C-EUC0805            C0805           CAPACITOR, European symbol                                                                            
+C10   0.1u                CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C11   10u                 CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C12   0.1u                CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C13   10u                 CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C14   1u                  CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C15   1u                  CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C16   1u                  CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C17   1u                  CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+C18   1u                  CPOL-EUE2.5-5        E2,5-5          POLARIZED CAPACITOR, European symbol                                                                  
+IC1   DSPIC33FJ64GP706/PT DSPIC33FJ64GP706/PT  TQFP64-10X10    dsPIC33 General DSC with CAN and CoDec ports                                                          
+IC2   LM2937              LM2937               TO263-3         LM2937-2.5, LM2937-3.3 400mA and 500mA Voltage Regulators                                             
+IC3   LM2937              LM2937               TO263-3         LM2937-2.5, LM2937-3.3 400mA and 500mA Voltage Regulators                                             
+IC4   MAX232              MAX232               DIL16           RS232 TRANSCEIVER                                               MAXIM MAX232ACPE+ 9723773    68K4544  
+JP1                       JP1E                 JP1             JUMPER                                                                                                
+JP2                       PINHD-1X4            1X04            PIN HEADER                                                                                            
+JP3                       PINHD-1X7            1X07            PIN HEADER                                                                                            
+JP4                       PINHD-1X5            1X05            PIN HEADER                                                                                            
+JP5                       PINHD-1X14           1X14            PIN HEADER                                                                                            
+JP6                       PINHD-1X4            1X04            PIN HEADER                                                                                            
+JP7                       PINHD-1X4            1X04            PIN HEADER                                                                                            
+JP8                       PINHD-1X3            1X03            PIN HEADER                                                                                            
+JP9                       PINHD-1X3            1X03            PIN HEADER                                                                                            
+JP10                      JP2E                 JP2             JUMPER                                                                                                
+JP11                      JP2E                 JP2             JUMPER                                                                                                
+LED                       R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+Q1    4M                  XTAL/S               QS              CRYSTAL                                                                                               
+R1    560                 R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R2    470                 R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R3    10k                 R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R4    3.3                 R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R5    3.3                 R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R6    3.3                 R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R7    1M                  R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R8    3.3                 R-EU_R0805           R0805           RESISTOR, European symbol                                                                             
+R12   10k                 POTENTIOMETER_PT-10S PT-10S          Potentiometer                                                                                         
+S1                        10-XX                B3F-10XX        OMRON SWITCH                                                          B3F-1000    176432     36M3542  
+S2                        10-XX                B3F-10XX        OMRON SWITCH                                                          B3F-1000    176432     36M3542  
+S3                        10-XX                B3F-10XX        OMRON SWITCH                                                          B3F-1000    176432     36M3542  
+S4                        10-XX                B3F-10XX        OMRON SWITCH                                                          B3F-1000    176432     36M3542  
+X1    SDBMF               SDBMF                SDBMF-009XXBXX2 SD MEMORY CARD PUSH-PUSH WITH CONNECTOR TYPE B (BIG SWUÌTCH #3)                                       
+X2    1751248             1751248              1751248         MKDS 1/ 2-3,5 Printklemme                                                         unknown    unknown  
+X3                        F09H                 F09H            SUB-D                                                                             unknown    unknown  
